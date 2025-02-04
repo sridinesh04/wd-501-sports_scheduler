@@ -21,7 +21,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/sports-scheduler.git  
+git clone https://github.com/sridinesh04/sports-scheduler.git  
 cd sports-scheduler  
 Install Dependencies:
 
